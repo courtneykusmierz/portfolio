@@ -1,1 +1,110 @@
-h
+@font-face {
+    font-family: 'Advent Pro';
+    src: url('fonts/adventpro-regular-webfont-6.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Source Code Pro';
+    src: url('fonts/sourcecodepro-regualr-webfont.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+p {
+	font-family: 'Advent Pro', sans-serif;
+    font-size: 20px;
+}
+
+h1 {
+    color: #D45113;
+    font-family: 'Source Code Pro', monospace;
+}
+
+h2 {
+    color: #D6701D;
+    font-family: 'Source Code Pro', monospace;
+    font-size: 20px;
+}
+
+h3 {
+    color: #D6701D;
+    font-family: 'Advent Pro', sans-serif;
+}
+
+li {
+    font-family: 'Advent Pro', sans-serif;
+    font-size: 20px;
+}
+
+body {
+	background-color: #093307;
+}
+
+.container {
+	color: #E6AA68;
+}
+
+a {
+	color: #E6AA68;
+}
+
+.about-me-wrap {
+    margin-top: 40px;
+}
+
+.three-websites-wrap {
+    margin-top: 40px;
+}
+
+
+.resume h1 {
+    color: #D6701D;
+}
+
+.resume h2 {
+    font-family: 'Source Code Pro', monospace;
+    font-size: 30px;
+    color: #D6701D;
+}
+
+.resume h3 {
+    font-family: 'Source Code Pro', monospace;
+    font-size: 30px;
+    color: #D6701D;
+}
+
+.resume h4 {
+    font-family: 'Source Code Pro', monospace;
+    font-size: 30px;
+    color: #D6701D;
+}
+
+.resume h5 {
+    font-family: 'Source Code Pro', monospace;
+    font-size: 30px;
+    color: #D6701D;
+}
+
+.resume p {
+    font-size: 25px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
